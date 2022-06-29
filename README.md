@@ -9,7 +9,7 @@ https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_au
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimayesmin&label=Profile%20views&color=0e75b6&style=flat" alt="shamimayesmin" /> </p>
 
-- 📫 How to reach me **shamimayesmin144@outlook.com**
+- 📫 How to reach me **shamimayesmin144@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
